@@ -1,7 +1,6 @@
-# 👋 ¡Hola! Soy Matías Bordonaro
----
- **👨🏻‍💻Desarrollador Full Stack👨🏻‍💻**
----
+<h1 align="center">🖖🏻¡Hola! Soy Matías Bordonaro</h1>
+
+<h2 align="center">👨🏻‍💻 Desarrollador Full Stack 👨🏻‍💻</h2>
 
 💻 Estudiante de **Desarrollo de Aplicaciones Informáticas (TUDAI)** en UNICEN.  
 ⚡ Me gusta aprender y mantenerme al día con nuevas tecnologías para aplicarlas en proyectos prácticos.  
@@ -15,7 +14,7 @@
 ---
 ### 🛠️ Tecnologías que manejo:
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular, React
-- **Backend:** Java, SQL, MySQL, Postgresql, PHP  
+- **Backend:** PHP, Java, MySQL, PostgreSQL  
 - **Otros:** Git, GitHub, UML, metodologías ágiles, Trello, Jira, Postman, Smarty
 
 ---
@@ -36,7 +35,7 @@
   - Visualización de menú y categorías de comida
   - Selección de productos y simulación de pedidos
   - Navegación y filtrado interactivo de productos
-  - Diseño mobile-first con HTML y CSS
+  - Diseño **mobile-first** con HTML y CSS
 ---
 
 ### 📫 Cómo contactarme:
