@@ -95,7 +95,7 @@ Me interesa seguir creciendo como desarrollador y participar en proyectos y equi
 
 ---
 
-## 🚀 Proyectos destacados
+## ⭐ Proyectos destacados
 
 ### 🥗 Farmacy Food
 
